@@ -1,1 +1,1 @@
-# SCAMP-Assessment
+Fibonacci function
